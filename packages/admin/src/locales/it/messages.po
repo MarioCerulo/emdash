@@ -12269,7 +12269,7 @@ msgstr ""
 
 #: packages/admin/src/components/SetupWizard.tsx:409
 msgid "Sign In"
-msgstr "Registrazione"
+msgstr "Accedi"
 
 #: packages/admin/src/components/InviteAcceptPage.tsx:161
 #: packages/admin/src/components/SignupPage.tsx:286

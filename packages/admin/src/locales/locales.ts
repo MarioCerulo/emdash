@@ -177,6 +177,13 @@ export const LOCALES: LocaleDefinition[] = [
 		enabled: true,
 		dateLocale: () => import("react-day-picker/locale/id").then((m) => m.id),
 	},
+	// Italian
+	{
+		code: "it",
+		label: "Italiano",
+		enabled: false,
+		dateLocale: () => import("react-day-picker/locale/it").then((m) => m.it),
+	},
 	// Japanese
 	{
 		code: "ja",
@@ -267,13 +274,6 @@ export const LOCALES: LocaleDefinition[] = [
 		label: "Українська",
 		enabled: true,
 		dateLocale: () => import("react-day-picker/locale/uk").then((m) => m.uk),
-	},
-	// Italian
-	{
-		code: "it",
-		label: "Italiano",
-		enabled: false,
-		dateLocale: () => import("react-day-picker/locale/it").then((m) => m.it),
 	},
 	// Pseudo-locale for i18n testing - never enabled in the admin UI by default.
 	// Set EMDASH_PSEUDO_LOCALE=1 in .env to expose it in the locale switcher (dev only).
