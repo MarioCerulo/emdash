@@ -4967,7 +4967,7 @@ msgstr ""
 
 #: packages/admin/src/components/auth/PasskeyRegistration.tsx:744
 msgid "EmDash never receives your PIN, password, or biometric information."
-msgstr "EmDash non riceve il tuo PIN, password o informazioni biometriche."
+msgstr "EmDash non riceve il tuo PIN, la password o le informazioni biometriche."
 
 #: packages/admin/src/components/settings/transfer/ExportDownload.tsx:39
 msgid "EmDash site package"
@@ -15205,7 +15205,7 @@ msgid "you@company.com"
 msgstr ""
 
 #: packages/admin/src/components/SetupWizard.tsx:264
-msgid "nome@example.com"
+msgid "you@example.com"
 msgstr ""
 
 #: packages/admin/src/components/WelcomeModal.tsx:45
