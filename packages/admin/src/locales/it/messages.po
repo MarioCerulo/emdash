@@ -1549,7 +1549,7 @@ msgstr ""
 #: packages/admin/src/components/Sidebar.tsx:640
 #: packages/admin/src/components/users/roleDefinitions.ts:42
 msgid "Admin"
-msgstr "Amministratore"
+msgstr "Admin"
 
 #: packages/admin/src/components/Sidebar.tsx:582
 msgid "Admin navigation"
@@ -8442,7 +8442,7 @@ msgstr ""
 
 #: packages/admin/src/components/Sidebar.tsx:632
 msgid "Manage"
-msgstr "Gestisci"
+msgstr "Gestione"
 
 #. placeholder {0}: inlineLabel(taxonomyDef.label, lingui.locale)
 #. placeholder {1}: taxonomyDef.collections.join(", ")
